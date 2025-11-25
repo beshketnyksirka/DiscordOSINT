@@ -103,7 +103,7 @@ Note that "SystemExploited" and the userID used should be replaced with your tar
 6. system exploited discord titkok
 
 ## License
-<a href="https://github.com/29fulcrum/DiscordOSINT/blob/main/LICENSE" title="LICENSE">
+<a href="https://github.com/orionplant/DiscordOSINT/blob/main/LICENSE" title="LICENSE">
   <img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=blue&logo=github" alt="LICENSE">
 </a>
 
