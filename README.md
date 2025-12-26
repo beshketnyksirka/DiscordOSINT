@@ -1,10 +1,8 @@
-# 🕵️ This will contain useful resources to conduct research on Discord 🕵️  
+# ***This will contain useful resources to conduct research on Discord***
 
-<div align="center">
 <a href="https://github.com/orionplant/DiscordOSINT" title="Go to GitHub repo">
   <img src="https://img.shields.io/static/v1?label=orionplant&message=DiscordOSINT&color=purple&logo=github" alt="orionplant - DiscordOSINT">
 </a>
-</div>
 
 Discord official website: https://discord.com/
 1. [Restore access to a discord account](https://discord.com/login)
@@ -17,7 +15,7 @@ Enable Discord developer mode to get user IDs and other types of IDs
 1. https://techswift.org/2020/09/17/how-to-enable-developer-mode-in-discord/
 2. https://techswift.org/2020/04/22/how-to-find-your-user-id-on-discord/
 
-## ⚒️🌎 Tools and websites ⚒️🌎
+***Tools and websites***
 1. https://hugo.moe/discord/discord-id-creation-date.html --> Checks the date and time of any discord account
 2. https://dht.chylex.com/ --> Extract chat history and lets you download it
 3. https://dfir.blog/unfurl/ --> Simplifies Links
@@ -25,7 +23,7 @@ Enable Discord developer mode to get user IDs and other types of IDs
 5. https://github.com/victornpb/undiscord --> Discord deleted message
 
 
-## 🖥️🖥️ Discord server search engines 🖥️🖥️
+***Discord server search engines***
 1. https://discord.me/servers
 2. https://discord.com/servers
 3. https://discordservers.com/
@@ -34,14 +32,14 @@ Enable Discord developer mode to get user IDs and other types of IDs
 6. http://discord.center
 7. https://discadia.com/
 
-## 🤖🤖 Discord bots search engine 🤖🤖
+***Discord bots search engine***
 1. https://top.gg/
 2. https://discord.bots.gg/
 3. https://discord.com/invite/0cDvIgU2voWn4BaD
 4. https://discordbotlist.com/
 5. https://ayblisting.com/
 
-## ✔️✔️ Miscellaneous ✔️✔️
+***Miscellaneous***
 1. https://discordstatus.com/ --> Discord status
 2. https://discordia.me/en/home --> Discord Wiki
 3. https://discordzoom.com/en/ --> Discord Avatar viewer
@@ -68,7 +66,7 @@ Enable Discord developer mode to get user IDs and other types of IDs
 24. https://usersearch.org/ --> Username search #2
 25. https://quark.bot/ --> Discord Log bot
 
-## 🪲🪲 Discord Exploits/Pentesting 🪲🪲
+***Discord Exploits/Pentesting***
 1. https://github.com/ImLorio/All-Discord-Exploits --> List of discord console scripts
 2. https://github.com/TheonlyIcebear/Discord-Image-Exploit --> Discord Image Exploit
 3. https://github.com/Discord-Oxygen/Discord-Console-hacks --> Discord console scripts & explanations of how discord work
@@ -78,7 +76,7 @@ Enable Discord developer mode to get user IDs and other types of IDs
 
 
 
-## ✨✨ Discord Search syntax ✨✨
+***Discord Search syntax***
 These are some commands ( filters ) used in the discord searchbar to search things easier.
 to narrow down your search, use the following filters along with your search query.
 
@@ -92,7 +90,7 @@ to narrow down your search, use the following filters along with your search que
 
 
 
-## 🔍🔍 Google Search queries & Dorks 🔍🔍
+***Google Search queries & Dorks***
 Note that "SystemExploited" and the userID used should be replaced with your target name / userID
 
 1. "system exploited discord " --> username search
@@ -102,7 +100,8 @@ Note that "SystemExploited" and the userID used should be replaced with your tar
 5. system exploited discord instagram
 6. system exploited discord titkok
 
-## License
+***License***
+-------
 <a href="https://github.com/orionplant/DiscordOSINT/blob/main/LICENSE" title="LICENSE">
   <img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=blue&logo=github" alt="LICENSE">
 </a>
