@@ -1,7 +1,7 @@
 # ***This will contain useful resources to conduct research on Discord***
 
-<a href="https://github.com/orionplant/DiscordOSINT" title="Go to GitHub repo">
-  <img src="https://img.shields.io/static/v1?label=orionplant&message=DiscordOSINT&color=purple&logo=github" alt="orionplant - DiscordOSINT">
+<a href="https://github.com/beshketnyksirka/DiscordOSINT" title="Go to GitHub repo">
+  <img src="https://img.shields.io/static/v1?label=beshketnyksirka&message=DiscordOSINT&color=purple&logo=github" alt="beshketnyksirka - DiscordOSINT">
 </a>
 
 Discord official website: https://discord.com/
@@ -102,7 +102,7 @@ Note that "SystemExploited" and the userID used should be replaced with your tar
 
 ***License***
 -------
-<a href="https://github.com/orionplant/DiscordOSINT/blob/main/LICENSE" title="LICENSE">
+<a href="https://github.com/beshketnyksirka/DiscordOSINT/blob/main/LICENSE" title="LICENSE">
   <img src="https://img.shields.io/static/v1?label=&message=LICENSE&color=blue&logo=github" alt="LICENSE">
 </a>
 
